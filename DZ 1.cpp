@@ -14,7 +14,7 @@ int main()
 		cout<<endl;
 		}
 	for(int p=1; p<<n; p++)
-	for(i=0; i<n-1; i++)
+	for(i=0; i<n-1; i++) 
 	if(mas[i] < mas[i+1]){
 		temp=mas[i];
 		mas[i]=mas[i+1];
